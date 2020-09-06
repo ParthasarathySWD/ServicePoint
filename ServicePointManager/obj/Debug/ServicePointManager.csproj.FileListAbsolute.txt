@@ -1,0 +1,7 @@
+C:\Users\partha\source\repos\ServicePointManager\ServicePointManager\obj\Debug\ServicePointManager.csprojAssemblyReference.cache
+C:\Users\partha\source\repos\ServicePointManager\ServicePointManager\obj\Debug\ServicePointManager.csproj.CoreCompileInputs.cache
+C:\Users\partha\source\repos\ServicePointManager\ServicePointManager\bin\Debug\ServicePointManager.exe.config
+C:\Users\partha\source\repos\ServicePointManager\ServicePointManager\bin\Debug\ServicePointManager.exe
+C:\Users\partha\source\repos\ServicePointManager\ServicePointManager\bin\Debug\ServicePointManager.pdb
+C:\Users\partha\source\repos\ServicePointManager\ServicePointManager\obj\Debug\ServicePointManager.exe
+C:\Users\partha\source\repos\ServicePointManager\ServicePointManager\obj\Debug\ServicePointManager.pdb

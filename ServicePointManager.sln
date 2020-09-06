@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicePointManager", "ServicePointManager\ServicePointManager.csproj", "{53CE45D0-3821-4634-9A56-E92914E3CE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CE45D0-3821-4634-9A56-E92914E3CE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CE45D0-3821-4634-9A56-E92914E3CE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CE45D0-3821-4634-9A56-E92914E3CE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CE45D0-3821-4634-9A56-E92914E3CE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB980B5B-D0B7-4300-95B2-A29E7EE0BE95}
+	EndGlobalSection
+EndGlobal
